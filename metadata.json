@@ -1,0 +1,6 @@
+{
+  "name": "M.A TRADERS",
+  "description": "Wholesale Management System for Surgical Disposables & Sutures in Sahiwal with real-time stock, billing, ledgers, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
